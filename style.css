@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px rgb(119, 119, 119);
+    border-radius: 10px;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#status, #found{
+    font-size: 18px;
+}
